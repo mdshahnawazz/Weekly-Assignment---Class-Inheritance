@@ -5,7 +5,7 @@
 
 // export class using module.exports
 
-class Shape{
-  constructor(){
-    this.color="red";
+class Circle extends Shape{
+  calculateArea(){
   }
+}
