@@ -12,5 +12,5 @@ class Shape{
   calculateArea(){
   }
 }
-export Shape;
+module.exports Shape;
   
