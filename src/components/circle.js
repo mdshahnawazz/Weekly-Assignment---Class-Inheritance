@@ -5,8 +5,3 @@
 
 // export class using module.exports
 
-class Circle extends Shape{
-  calculateArea(){
-  }
-}
-
