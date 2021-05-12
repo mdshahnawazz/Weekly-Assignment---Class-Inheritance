@@ -10,7 +10,6 @@ class Shape{
     
   }
   calculateArea(){
-    return area;
   }
 }
 export Shape;
